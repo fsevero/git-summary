@@ -289,7 +289,7 @@ git gc --prune=all #prunes all loose objects
 
 ## Guides and Tutorials on Git
 
-[Git - the simple guide - no deep shit]()
+[Git - the simple guide - no deep shit](http://rogerdudler.github.io/git-guide/)
 
 [Official Git Documentation](http://git-scm.com/doc)
 
